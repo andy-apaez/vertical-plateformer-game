@@ -78,7 +78,7 @@ const background = new Sprite({
         x: 0,
         y: 0,
     },
-    imageSrc: './img/Background.png',
+    imageSrc: './img/background.png',
 })
 
 function animate() {
